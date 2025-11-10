@@ -85,8 +85,8 @@ Los dispositivos (como **ESP8266** o **ESP32**) se comunican con el backend medi
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tuusuario/espvatio.git
-cd espvatio
+git clone https://github.com/luistorres17/espvatio-app.git
+cd espvatio-app
 
 # Instalar dependencias PHP
 composer install
